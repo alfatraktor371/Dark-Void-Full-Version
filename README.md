@@ -238,4 +238,4 @@ This repository serves as the official landing page for Dark Void. The software 
 **Get the most recent version of Dark Void today!**
 
 ---
-**Last updated:** 2026-09-07 23:09:36 UTC
+**Last updated:** 2026-09-08 01:59:10 UTC
